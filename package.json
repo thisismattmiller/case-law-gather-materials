@@ -1,0 +1,23 @@
+{
+  "name": "case-law-gather-materials",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thisismattmiller/case-law-gather-materials.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thisismattmiller/case-law-gather-materials/issues"
+  },
+  "homepage": "https://github.com/thisismattmiller/case-law-gather-materials#readme",
+  "dependencies": {
+    "glob": "^7.1.2",
+    "highland": "^2.11.0"
+  }
+}
